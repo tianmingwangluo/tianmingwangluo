@@ -10,6 +10,6 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=tianmingwangluo" />
 </a> -->
 <p align="center"> 
-  我的个人资料上的访客总数<br>
+  Total Visitors on My Profile<br>
   <img src="https://profile-counter.glitch.me/tianmingwangluo/count.svg?start=10000" />
 </p>
